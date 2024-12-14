@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Post 1 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-1.html"
+  },
+  {
+    "title": "Post 2 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-2.html"
+  },
+  {
+    "title": "Post 3 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-3.html"
+  },
+  {
+    "title": "Post 4 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-3.html"
+  },
+
+  {
+    "title": "Post 5 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-3.html"
+  },
+
+  {
+    "title": "Post 6 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-3.html"
+  },
+
+  {
+    "title": "Post 7 ",
+    "author": "Author 1 ",
+    "date": "07 Desember 2024 ",
+    "summary": "Post summary for detail",
+    "post": "posts/post-3.html"
+  }
+]
